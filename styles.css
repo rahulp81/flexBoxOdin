@@ -1,0 +1,25 @@
+* {
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+}
+
+header{
+display: flex;
+justify-content: space-between;
+border: 2px solid black;
+margin: 15px 10%;
+padding: 10px 20px;
+}
+
+
+ul{
+list-style: none;
+display: flex;
+gap: 15px;
+}
+
+li{
+display: inline-block;
+
+}
