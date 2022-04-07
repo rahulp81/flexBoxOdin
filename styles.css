@@ -232,3 +232,18 @@ p {
     font-size: 20px;
     
 }
+
+
+footer {
+height: 80px;    
+background-color: #1f2937;
+color: #E5E7EB;
+font-size: 30px;
+display: flex;
+justify-content: center;
+padding-top: 20px;
+}
+
+footer>p>span{
+font-family: cursive;    
+}
